@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="950e5435-8df5-4a6c-bf55-8ff981fbbac7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../CallingJSON_API/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CallingJSON_API/index1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExtractWebPage/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExtractWebPage/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RegularExpressions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RegularExpressions/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebScraping_UsingURLLIB_bs4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebScraping_UsingURLLIB_bs4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CallingJSON_API/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CallingJSON_API/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -102,7 +96,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
